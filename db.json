@@ -1,7 +1,7 @@
 {    
     "preliquidaciones": [
         {
-            "InvestigacionNro": "12548975",
+            "PreliquidacionNro": "12548975",
             "Fecha": "4/10/21",
             "Siniestro": "--------------",
             "Rama": "Automoviles",
@@ -10,7 +10,7 @@
             "Estado": "Pendiente"
         },
         {
-            "InvestigacionNro": "12548976",
+            "PreliquidacionNro": "12548976",
             "Fecha": "4/11/21",
             "Siniestro": "--------------",
             "Rama": "Automoviles",
@@ -19,7 +19,7 @@
             "Estado": "Pendiente"
         },
         {
-            "InvestigacionNro": "12548977",
+            "PreliquidacionNro": "12548977",
             "Fecha": "4/12/21",
             "Siniestro": "--------------",
             "Rama": "Automoviles",
@@ -28,7 +28,7 @@
             "Estado": "Pendiente"
         },
         {
-            "InvestigacionNro": "12548978",
+            "PreliquidacionNro": "12548978",
             "Fecha": "4/13/21",
             "Siniestro": "--------------",
             "Rama": "Automoviles",
@@ -37,7 +37,7 @@
             "Estado": "Pendiente"
         },
         {
-            "InvestigacionNro": "12548979",
+            "PreliquidacionNro": "12548979",
             "Fecha": "4/14/21",
             "Siniestro": "--------------",
             "Rama": "Automoviles",
@@ -46,7 +46,7 @@
             "Estado": "Pendiente"
         },
         {
-            "InvestigacionNro": "12548980",
+            "PreliquidacionNro": "12548980",
             "Fecha": "4/15/21",
             "Siniestro": "--------------",
             "Rama": "Automoviles",
@@ -55,7 +55,7 @@
             "Estado": "Rechazado"
         },
         {
-            "InvestigacionNro": "12548981",
+            "PreliquidacionNro": "12548981",
             "Fecha": "4/16/21",
             "Siniestro": "--------------",
             "Rama": "Automoviles",
@@ -64,7 +64,7 @@
             "Estado": "Rechazado"
         },
         {
-            "InvestigacionNro": "12548982",
+            "PreliquidacionNro": "12548982",
             "Fecha": "4/17/21",
             "Siniestro": "--------------",
             "Rama": "Automoviles",
@@ -73,7 +73,7 @@
             "Estado": "Rechazado"
         },
         {
-            "InvestigacionNro": "12548983",
+            "PreliquidacionNro": "12548983",
             "Fecha": "4/18/21",
             "Siniestro": "--------------",
             "Rama": "Automoviles",
@@ -82,7 +82,7 @@
             "Estado": "Rechazado"
         },
         {
-            "InvestigacionNro": "12548984",
+            "PreliquidacionNro": "12548984",
             "Fecha": "4/19/21",
             "Siniestro": "--------------",
             "Rama": "Automoviles",
@@ -91,7 +91,7 @@
             "Estado": "Rechazado"
         },
         {
-            "InvestigacionNro": "12548985",
+            "PreliquidacionNro": "12548985",
             "Fecha": "4/20/21",
             "Siniestro": "--------------",
             "Rama": "Automoviles",
@@ -100,7 +100,7 @@
             "Estado": "Rechazado"
         },
         {
-            "InvestigacionNro": "12548986",
+            "PreliquidacionNro": "12548986",
             "Fecha": "4/21/21",
             "Siniestro": "--------------",
             "Rama": "Automoviles",
@@ -109,7 +109,7 @@
             "Estado": "Rechazado"
         },
         {
-            "InvestigacionNro": "12548987",
+            "PreliquidacionNro": "12548987",
             "Fecha": "4/22/21",
             "Siniestro": "--------------",
             "Rama": "Automoviles",
@@ -118,7 +118,7 @@
             "Estado": "Rechazado"
         },
         {
-            "InvestigacionNro": "12548988",
+            "PreliquidacionNro": "12548988",
             "Fecha": "4/23/21",
             "Siniestro": "--------------",
             "Rama": "Automoviles",
@@ -127,7 +127,7 @@
             "Estado": "Rechazado"
         },
         {
-            "InvestigacionNro": "12548989",
+            "PreliquidacionNro": "12548989",
             "Fecha": "4/24/21",
             "Siniestro": "--------------",
             "Rama": "Automoviles",
@@ -136,7 +136,7 @@
             "Estado": "Rechazado"
         },
         {
-            "InvestigacionNro": "12548975",
+            "PreliquidacionNro": "12548975",
             "Fecha": "4/10/21",
             "Siniestro": "--------------",
             "Rama": "Automoviles",
@@ -145,7 +145,7 @@
             "Estado": "Pendiente"
         },
         {
-            "InvestigacionNro": "12548976",
+            "PreliquidacionNro": "12548976",
             "Fecha": "4/11/21",
             "Siniestro": "--------------",
             "Rama": "Automoviles",
@@ -154,7 +154,7 @@
             "Estado": "Pendiente"
         },
         {
-            "InvestigacionNro": "12548977",
+            "PreliquidacionNro": "12548977",
             "Fecha": "4/12/21",
             "Siniestro": "--------------",
             "Rama": "Automoviles",
@@ -163,7 +163,7 @@
             "Estado": "Pendiente"
         },
         {
-            "InvestigacionNro": "12548978",
+            "PreliquidacionNro": "12548978",
             "Fecha": "4/13/21",
             "Siniestro": "--------------",
             "Rama": "Automoviles",
@@ -172,7 +172,7 @@
             "Estado": "Pendiente"
         },
         {
-            "InvestigacionNro": "12548979",
+            "PreliquidacionNro": "12548979",
             "Fecha": "4/14/21",
             "Siniestro": "--------------",
             "Rama": "Automoviles",
