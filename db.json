@@ -255,7 +255,7 @@
             }
         }
     ],
-     "datosInspeccion":[
+     "datosInspeccion":
         {
             "inspeccionNro": 1248975,
             "siniestroNro": 21548,
@@ -272,5 +272,5 @@
             "horaHasta": "17:00 PM"
             
         }
-    ]
+    
 }
