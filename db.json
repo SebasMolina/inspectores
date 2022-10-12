@@ -180,5 +180,97 @@
             "ImporteTotal": "35248",
             "Estado": "Pendiente"
         }
+    ],
+    "ordenesReposicion":[
+        {
+            "ordenNro": 12548975,
+            "siniestroNro": 21548,
+            "polizaNro": 3251,
+            "proveedor": "Juan Perez",
+            "fechaEmision":"24/11/2021",
+            "estado":"pendiente",
+            "tipoOrden": 12548975,
+            "categoria":12548975,
+            "porcentajeDesgaste":12548975,
+            "dañosAReponer": "-----",
+            "notaProveedor": "-----",
+            "datosSiniestro": { 
+                "siniestroNro": 21548,
+                "rama": "automoviles",
+                "idOperacion": "24/11/2021",
+                "fechaSiniestro": "27/11/2021",
+                "horaSiniestro": "15:00 PM",
+                "fechaDenuncia": "20/11/2021",
+                "causa": "-----",
+                "estadoSiniestro": "-----"
+            },
+            "datosAsegurado": {
+                "asegurado": 21548,
+                "tipoDocumento": "DNI",
+                "nroDocumento": 258947125,
+                "cuit": "2-25894123",
+                "telefono":1128784592,
+                "direccion": "Gracia 547 7A",
+                "localidad": "Nuñez",
+                "provincia": "C.A.B.A",
+                "códigoPostal": 2015,
+                "sufijoCP": "-----"
+            },
+            "datosPoliza": {
+                "polizaNro": 21548,
+                "rama":"Automoviles",
+                "fechaFacturacion": "25/10/2021",
+                "productor": "-----",
+                "nivelProductor": "-----",
+                "fechaDenuncia": "09/08/2021",
+                "vigenciaDesde": "-----",
+                "vigenciaHasta": "-----",
+                "cobertura": "-----",
+                "sumaAsegurada": "-----",
+                "valorFranquicia": "-----",
+                "articulo": 12,
+                "nroOperacion": 1234,
+                "nroSuperpoliza": 1234,
+                "suplementoSuperpoliza": 1234
+            },
+        "datosVehiculo": {
+            "marca": "Honda",
+            "modelo": "Civic",
+            "submodelo": "Comfort",
+            "año": 2018,
+            "tipoPatente": "-----",
+            "patente": "-----",
+            "motor": 2.0,
+            "chasis": "-----",
+            "tipoVehiculo": "Sedan",
+            "uso": "particular",
+            "carroceria": "-----",
+            "motorizacion": "-----"	
+            },
+            "documentos": {
+                "urlDocumentos": [
+                    "doc1",
+                    "doc2"
+                ]
+            }
+        }
+    ],
+     "datosInspeccion":[
+        {
+            "inspeccionNro": 1248975,
+            "siniestroNro": 21548,
+            "poliza": 3251,
+            "estado": "Pendiente",
+            "fechaDeSolicitud": "24/11/2021",
+            "inspector": "Juan Perez",
+            "tarea": "-------",
+            "direccion": "Garcia 547 7A",
+            "provincia": "C.A.B.A",
+            "localidad": "Nuñez",
+            "fechaProgramada": "27/11/2021",
+            "horaDesde": "15:00 PM",
+            "horaHasta": "17:00 PM"
+            
+        }
     ]
 }
