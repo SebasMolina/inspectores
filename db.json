@@ -272,5 +272,35 @@
             "horaHasta": "17:00 PM"
             
         }
+    ],
+    "inspeccionesAprobadas":[
+        {
+            "PreliquidacionNro": "12548975",
+            "Fecha": "4/10/21",
+            "Siniestro": "--------------",
+            "Poliza": "--------------",
+            "Asegurado": "--------------",
+            "ImporteTotal": "35248",
+            "Estado": "Pendiente"
+        },
+        {
+            "PreliquidacionNro": "21212412",
+            "Fecha": "4/12/21",
+            "Siniestro": "--------------",
+            "Poliza": "--------------",
+            "Asegurado": "--------------",
+            "ImporteTotal": "55248",
+            "Estado": "Realizada"
+        },
+        {
+            "PreliquidacionNro": "52548975",
+            "Fecha": "4/10/21",
+            "Siniestro": "--------------",
+            "Poliza": "--------------",
+            "Asegurado": "--------------",
+            "ImporteTotal": "35248",
+            "Estado": "Pendiente"
+        }
+        
     ]
 }
